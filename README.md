@@ -1,1 +1,1 @@
-# Mancala-Game-Using-C-
+# Mancala-Game-Using-C++
